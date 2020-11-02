@@ -1,0 +1,15 @@
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/install/strip.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/install/local.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/install.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/list_install_components.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/rebuild_cache.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/CMakeFiles/edit_cache.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/install/strip.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/install/local.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/install.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/list_install_components.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/rebuild_cache.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/edit_cache.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/gotoxy.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/ICES__home_hulio_Escritorio_practica3-robotica_gotoxy_src.dir
+/home/hulio/Escritorio/practica3-robotica/gotoxy/src/CMakeFiles/gotoxy_autogen.dir
